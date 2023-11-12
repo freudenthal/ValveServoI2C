@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Teensy")(type "Legacy")(uri "${KIPRJMOD}/teensy.lib")(options "")(descr ""))
   (lib (name "NXP")(type "Legacy")(uri "${KIPRJMOD}/NXP.lib")(options "")(descr ""))
+  (lib (name "FullBridgeDriver")(type "KiCad")(uri "${KIPRJMOD}/FullBridgeDriver.kicad_sym")(options "")(descr ""))
 )
